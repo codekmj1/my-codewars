@@ -2,7 +2,7 @@
 // num1에서 num2를 뺀 값을
 // return하도록 soltuion 함수를 완성해주세요.
 
-class Solution {
+class Solution1 {
     fun solution(num1: Int, num2: Int): Int {
 
         var answer: Int = 0
