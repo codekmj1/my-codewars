@@ -2,7 +2,7 @@
 // numbers의 원소의 평균값을 return하도록 solution
 // 함수를 완성해주세요.
 
-class Solution {
+class Solution10 {
     fun solution(numbers: IntArray): Double {
         var answer: Double = 0.0
         // 주어진 배열 numbers의 모든 원소를 더한다
